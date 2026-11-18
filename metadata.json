@@ -1,0 +1,6 @@
+{
+  "name": "GIS Nilai — Program Kemahiran Bertauliah JPK",
+  "description": "Laman rasmi penerangan ibu bapa dan semakan kelayakan Program Kemahiran Bertauliah JPK di Global Institute of Studies (GIS), Nilai, Negeri Sembilan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
